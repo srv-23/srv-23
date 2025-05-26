@@ -6,35 +6,31 @@
 
 ## 🚀 About Me
 
-```javascript
-const aboutMe = {
-   pronouns: "he",
-   code: ["JavaScript", "TypeScript", "Python"],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Next.js"],
-         css: ["Tailwind", "Material-UI"]
-      },
-      backEnd: {
-         js: ["Node", "Express"],
-         python: ["Django", "Flask"]
-      },
-      databases: ["MongoDB", "PostgreSQL"],
-      devOps: ["Docker", "Git"],
-      currentFocus: "Building innovative web applications"
-   }
-};
-```
+I'm a 4th Year Information Technology Engineering student at Netaji Subhash University of Technology in New Delhi. I'm passionate about building innovative web applications and exploring new technologies, especially in the fields of FullStack,AI and Blockchain.
+
+I primarily work with JavaScript, TypeScript, and Python, and have experience with frameworks and libraries like React, Next.js, Node.js, Express, Django, and Flask. My database experience includes MongoDB and PostgreSQL, and I'm familiar with DevOps tools like Docker and Git.
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://img.icons8.com/color/48/000000/node-js.png" alt="Node.js"/>
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+  </a>
 </div>
 
 ## 📊 GitHub Stats
@@ -50,12 +46,17 @@ const aboutMe = {
   <a href="https://github.com/srv-23/KCompiler">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=srv-23&repo=KCompiler&theme=radical" />
   </a>
+  <p><strong>KCompiler:</strong> A modern web-based code compiler and editor built with Next.js, TypeScript, and Convex, featuring real-time collaboration.</p>
+
   <a href="https://github.com/srv-23/codemeet">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=srv-23&repo=codemeet&theme=radical" />
   </a>
+  <p><strong>CodeMeet:</strong> A collaborative coding platform built with Next.js & TypeScript, featuring video calls, screen sharing, screen recording, and authentication.</p>
+
   <a href="https://github.com/srv-23/blockchain-crowdfunding">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=srv-23&repo=blockchain-crowdfunding&theme=radical" />
   </a>
+  <p><strong>Blockchain Crowdfunding:</strong> A decentralized crowdfunding platform built with React, Hardhat, and Solidity, allowing users to create, fund, and manage campaigns on the Ethereum blockchain.</p>
 </div>
 
 ## 📫 Connect with Me
