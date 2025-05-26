@@ -27,13 +27,13 @@ I primarily work with JavaScript, TypeScript, and Python, and have experience wi
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
     </a>
     <a href="https://nodejs.org/en/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nodejs.svg" alt="Node.js" width="40" height="40"/>
     </a>
     <a href="https://isocpp.org/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
     </a>
     <a href="https://tailwindcss.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg" alt="TailwindCSS" width="40" height="40"/>
     </a>
     <a href="https://www.mysql.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
@@ -46,9 +46,6 @@ I primarily work with JavaScript, TypeScript, and Python, and have experience wi
     </a>
     <a href="https://www.docker.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-    </a>
-    <a href="https://aws.amazon.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
     </a>
   </p>
 </div>
