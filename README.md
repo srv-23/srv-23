@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a 4th Year Information Technology Engineering student at Netaji Subhash University of Technology in New Delhi. I'm passionate about building innovative web applications and exploring new technologies, especially in the fields of FullStack,AI and Blockchain.
+I'm a 4th Year Information Technology Engineering student at **Netaji Subhash University of Technology** in New Delhi. I'm passionate about building innovative web applications and exploring new technologies, especially in the fields of FullStack,AI and Blockchain.
 
 I primarily work with JavaScript, TypeScript, and Python, and have experience with frameworks and libraries like React, Next.js, Node.js, Express, Django, and Flask. My database experience includes MongoDB and PostgreSQL, and I'm familiar with DevOps tools like Docker and Git.
 
@@ -27,6 +27,15 @@ I primarily work with JavaScript, TypeScript, and Python, and have experience wi
   </a>
   <a href="https://nodejs.org/">
     <img src="https://img.icons8.com/color/48/000000/node-js.png" alt="Node.js"/>
+  </a>
+  <a href="https://isocpp.org/">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus.png" alt="C++"/>
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL"/>
   </a>
   <a href="https://www.mongodb.com/">
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
